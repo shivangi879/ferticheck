@@ -1,0 +1,29 @@
+============================================
+        FERTICHECK QUALITY TEST REPORT
+============================================
+
+Fertilizer ID : F102
+Fertilizer    : urea fertilizer
+Manufacturer  : xyz company
+
+              TEST RESULTS
+--------------------------------------------
+Parameter      Standard    Tested      Deviation   Tolerance   Result
+--------------------------------------------
+Nitrogen       46.00       46.40       0.40        0.50        PASS
+Urea           99.00       99.30       0.30        1.00        PASS
+Ammonia        0.10        0.50        0.40        0.00        FAIL
+
+OVERALL QUALITY: FAIL
+
+QUALITY INTERPRETATION:
+One or more tested parameters do not meet their configured limits.
+
+NOTE:
+This report evaluates only the parameters tested.
+Plant and soil suitability requires crop-specific and
+soil-specific agronomic assessment.
+
+============================================
+                END OF REPORT
+============================================

@@ -1,0 +1,6 @@
+
+
+# DEMONSTRATION VALUES ONLY - replace with verified specifications
+Nitrogen 46.0 0.5 RANGE
+Urea 99.0 1.0 RANGE
+Ammonia 0.1 0.0 MAX
